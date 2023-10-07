@@ -8,6 +8,7 @@ namespace ExamAngular03.Models
 {
     public class Candidate
     {
+        //all classes
         public int CandidateId { get; set; }
         public string CandidateName { get; set; }
         [Column(TypeName = "date")]
