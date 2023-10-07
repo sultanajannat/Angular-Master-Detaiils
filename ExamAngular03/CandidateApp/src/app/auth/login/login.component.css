@@ -1,0 +1,20 @@
+.frm-container {
+  width: 350px;
+  margin: 50px auto;
+}
+
+.frm {
+  padding: 15px;
+}
+
+  .frm header {
+    background-color: #757575;
+    color: white;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    padding: 15px;
+  }
+
+.full-width {
+  width: 100%;
+}
